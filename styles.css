@@ -1,0 +1,39 @@
+h1{
+    color:#8B0000;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+
+}
+body{
+    color:black;
+    font-weight: 900;
+    background-color:firebrick;
+}
+
+
+.container{
+    width:80%;
+    margin:auto;
+    text-align: center
+    
+}
+.headerbox{
+    background-color:black;
+    border: 5px darkred solid;
+    width: 50%;
+    margin:auto;
+
+
+}
+#navi{
+    background-color:black;
+    width:20%;
+    margin:2px;;
+    height: 40%;
+
+}
+a:hover{
+    background-color: yellow;
+
+}
+
