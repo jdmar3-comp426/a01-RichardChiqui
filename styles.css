@@ -19,9 +19,10 @@ body{
 }
 .headerbox{
     background-color:black;
-    border: 5px darkred solid;
+    border: 5px 8B0000;
     width: 50%;
     margin:auto;
+    font-style: italic;
 
 
 }
@@ -30,6 +31,7 @@ body{
     width:20%;
     margin:2px;;
     height: 40%;
+    font-style:initial;
 
 }
 a:hover{
