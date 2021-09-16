@@ -24,6 +24,8 @@ body{
     width: 50%;
     margin:auto;
     font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 
 
 }
@@ -33,6 +35,8 @@ body{
     margin:2px;;
     height: 40%;
     font-style:oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 
 }
 a:link{
@@ -51,3 +55,4 @@ a:active{
 .img{
     border-radius: 8px;
 }
+
