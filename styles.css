@@ -11,16 +11,14 @@ body{
     background-color: #8B0000;
 }
 
-
 .container{
     width:80%;
     margin:auto;
     text-align: center
-    
 }
 .headerbox{
     background-color:black;
-    border: 5px darkred solid;
+    border: 5px solid orange;
     width: 50%;
     margin:auto;
     font-style: italic;
@@ -32,7 +30,7 @@ body{
 #navi{
     background-color:black;
     width:20%;
-    margin:2px;;
+    margin:20px;
     height: 40%;
     font-style:oblique;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -54,5 +52,8 @@ a:active{
 }
 .img{
     border-radius: 8px;
+}
+div>p{
+    background-color: aliceblue;
 }
 
