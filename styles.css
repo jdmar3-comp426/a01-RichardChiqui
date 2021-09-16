@@ -35,8 +35,19 @@ body{
     font-style:oblique;
 
 }
+a:link{
+    color: blue;
+}
+a:visited{
+    color:aqua;
+}
 a:hover{
     background-color: yellow;
 
 }
-
+a:active{
+    color:green;
+}
+.img{
+    border-radius: 8px;
+}
