@@ -2,12 +2,13 @@ h1{
     color:#8B0000;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px;
+    font-style: inherit;
 
 }
 body{
     color:black;
     font-weight: 900;
-    background-color:firebrick;
+    background-color: #8B0000;
 }
 
 
@@ -19,7 +20,7 @@ body{
 }
 .headerbox{
     background-color:black;
-    border: 5px 8B0000;
+    border: 5px darkred solid;
     width: 50%;
     margin:auto;
     font-style: italic;
@@ -31,7 +32,7 @@ body{
     width:20%;
     margin:2px;;
     height: 40%;
-    font-style:initial;
+    font-style:oblique;
 
 }
 a:hover{
