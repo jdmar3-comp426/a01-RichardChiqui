@@ -27,7 +27,7 @@ body{
 
 
 }
-div > .headerbox{
+div .headerbox{
     font-weight:bold;
 }
 #navi{
