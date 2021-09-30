@@ -62,5 +62,13 @@ a:active{
 div>p{
     background-color: aliceblue;
 }
-
+div p{
+    background-color:aqua;
+}
+div + p{
+    background-color: blueviolet;
+}
+div ~ p{
+    background-color: blanchedalmond;
+}
 
